@@ -2,7 +2,6 @@
 
 Tibia Launcher for all protocols versions 7x-13x and above.
 
-Official Thread: https://opengamescommunity.com/index.php?resources/tibia-launcher-v2-0-all-versions.193/
 
 This is a show off, it's a paid launcher.
 
